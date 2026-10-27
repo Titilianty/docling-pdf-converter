@@ -1,0 +1,10 @@
+# Local Python environments
+/.venv/
+/docling/
+/docling-py315-old/
+
+# Generated files and Python caches
+/data/
+/output/
+__pycache__/
+*.py[cod]
